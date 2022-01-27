@@ -1,4 +1,4 @@
-INSTRUÇÕES:
-apos fazer um clone do arquivo.
-abrir o arquivo HTML.
-divirta-se.
+INSTRUÇÕES: </br>
+apos fazer um clone do arquivo.</br>
+abrir o arquivo HTML.</br>
+divirta-se.</br></br>
